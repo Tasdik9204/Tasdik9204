@@ -78,20 +78,20 @@ I enjoy understanding how systems work, discovering how they fail, and turning t
 [+] Reverse engineering
 ```
 
-Member of **Really Annoying Bots (RAB)** and actively involved in competitive CTFs and security research.
+Member of **Rea11y Annoying Bots (RAB)** and actively involved in competitive CTFs and security research.
 
 ---
 
 # `> SECURITY_ARSENAL`
 
-| Domain                     | Skills                                                                 |
-| :------------------------- | :--------------------------------------------------------------------- |
-| 🔍 **Digital Forensics**   | PCAP Analysis • Network Forensics • Malware Analysis • Memory Analysis |
-| 💥 **Binary Exploitation** | Linux Binaries • Memory Corruption • Exploitation                      |
-| 🧩 **Reverse Engineering** | Static Analysis • Dynamic Analysis • Debugging • Ghidra                |
-| 🌐 **Web Security**        | Recon • Web Exploitation • API Security • Security Testing             |
-| 🔐 **Cryptography**        | Classical Crypto • Applied Crypto • CTF Crypto                         |
-| 🌐 **Networking**          | Traffic Analysis • Wireshark • Network Protocols                       |
+| Domain | Skills |
+| :--- | :--- |
+| 🔍 **Digital Forensics** | PCAP Analysis • Network Forensics • Malware Analysis • Memory Analysis |
+| 💥 **Binary Exploitation** | Linux Binaries • Memory Corruption • Exploitation |
+| 🧩 **Reverse Engineering** | Static Analysis • Dynamic Analysis • Debugging • Ghidra |
+| 🌐 **Web Security** | Recon • Web Exploitation • API Security • Security Testing |
+| 🔐 **Cryptography** | Classical Crypto • Applied Crypto • CTF Crypto |
+| 🌐 **Networking** | Traffic Analysis • Wireshark • Network Protocols |
 
 ---
 
@@ -198,7 +198,7 @@ My focus is not only on solving challenges, but understanding the vulnerability,
 ```yaml
 identity:
   role: "Cybersecurity Researcher"
-  team: "Really Annoying Bots"
+  team: "Rea11y Annoying Bots"
 
 focus:
   - digital_forensics
@@ -287,11 +287,15 @@ objective: "Turn curiosity into capability."
 <div align="center">
 
 <a href="https://www.linkedin.com/in/tasdikmuttaki/">
-  <img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=000000" />
+  <img src="https://img.shields.io/badge/LinkedIn-Tasdik_Muttaki-00E5FF?style=for-the-badge&logo=linkedin&logoColor=000000" />
 </a>
 
 <a href="https://github.com/Tasdik9204">
-  <img src="https://img.shields.io/badge/GitHub-00FF9C?style=for-the-badge&logo=github&logoColor=000000" />
+  <img src="https://img.shields.io/badge/GitHub-Tasdik9204-00FF9C?style=for-the-badge&logo=github&logoColor=000000" />
+</a>
+
+<a href="mailto:muttaki2004@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-muttaki2004%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
