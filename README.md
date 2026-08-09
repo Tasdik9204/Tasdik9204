@@ -182,32 +182,7 @@ exploring:
 objective: "Turn curiosity into capability."
 ```
 
----
 
-# `> GITHUB_ANALYTICS`
-
-<div align="center">
-
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=Tasdik9204&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00FF9C&text_color=C9D1D9&ring_color=00E5FF"
-/>
-
-<img
-  width="49%"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Tasdik9204&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B"
-/>
-
-<br><br>
-
-<img
-  width="45%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tasdik9204&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9"
-/>
-
-</div>
-
----
 
 # `> ACTIVITY_GRAPH`
 
