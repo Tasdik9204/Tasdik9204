@@ -2,7 +2,7 @@
 
 # `M TASDIK MUTTAKI`
 
-### `CYBERSECURITY • CTF • DIGITAL FORENSICS • REVERSE ENGINEERING`
+### `CYBERSECURITY • CTF • DIGITAL FORENSICS • GAME DEVELOPMENT • AI`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tasdik_Muttaki-00E5FF?style=for-the-badge\&logo=linkedin\&logoColor=white\&labelColor=020617)](https://www.linkedin.com/in/tasdikmuttaki/)
 [![GitHub](https://img.shields.io/badge/GitHub-Tasdik9204-00FF9C?style=for-the-badge\&logo=github\&logoColor=white\&labelColor=020617)](https://github.com/Tasdik9204)
@@ -17,8 +17,7 @@ tasdik@github:~$ whoami
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
 │   NAME       M Tasdik Muttaki                                │
-│   ROLE       Cybersecurity Researcher                        │
-│   TEAM       Really Annoying Bots (RAB)                      │
+│   ROLE       Cybersecurity Researcher                        │                      
 │   FOCUS      Forensics • Pwn • Web • Reverse Engineering     │
 │   STATUS     Building. Breaking. Learning.                   │
 │                                                              │
@@ -73,7 +72,7 @@ I enjoy understanding how systems work, discovering how they fail, and turning t
 
 <div align="center">
 
-## 🏴 Really Annoying Bots
+## 🏴 Rea11y Annoying Bots
 
 ### `CTF PLAYER • SECURITY RESEARCHER`
 
