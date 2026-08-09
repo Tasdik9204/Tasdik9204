@@ -18,11 +18,11 @@ tasdik@github:~$ whoami
 
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
-│   NAME       Tasdik Muttaki                                  │
+│   NAME       M Tasdik Muttaki                                │
 │   LOCATION   Dhaka, Bangladesh                               │
-│   ROLE       Computer Science Student                        │
-│   FOCUS      Cybersecurity • AI • Backend Development        │
-│   STATUS     Building. Breaking. Learning.                    │
+│   ROLE       Cybersecurity Researcher                        │
+│   FOCUS      Cybersecurity • AI • Game Development           │
+│   STATUS     Building. Breaking. Learning.                   │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
@@ -32,22 +32,20 @@ tasdik@github:~$ whoami
 ```python
 class Tasdik:
     def __init__(self):
-        self.name = "Tasdik Muttaki"
+        self.name = "M Tasdik Muttaki"
         self.location = "Dhaka, Bangladesh 🇧🇩"
 
         self.interests = [
             "Cybersecurity",
-            "Capture The Flag",
+            "Capture The Flag (CTF)",
             "Artificial Intelligence",
             "Backend Engineering",
-            "Computer Networks",
         ]
 
         self.currently_learning = [
             "Web Security",
             "Binary Exploitation",
             "Digital Forensics",
-            "OSINT",
             "AI / ML Systems",
         ]
 
@@ -86,12 +84,10 @@ me = Tasdik()
 
 |           Domain           | Exploring                                      |
 | :------------------------: | :--------------------------------------------- |
-|     🌐 **Web Security**    | Recon • Web Exploitation • API Security        |
-|        🕵️ **OSINT**       | Investigation • Metadata • Social Intelligence |
 |      🔍 **Forensics**      | PCAP Analysis • Wireshark • Traffic Analysis   |
+|     🌐 **Web Security**    | Recon • Web Exploitation • API Security        |
 | 🧩 **Reverse Engineering** | Static Analysis • Debugging                    |
 | 💥 **Binary Exploitation** | Linux Binaries • Memory Corruption             |
-|         🏁 **CTF**         | Web • Crypto • Forensics • OSINT • Pwn         |
 
 </div>
 
@@ -157,7 +153,7 @@ Security experiments, challenge solutions, scripts and research from my cybersec
 
 **Areas**
 
-`Web` `Forensics` `OSINT` `Crypto` `Pwn`
+`Web` `Forensics` `Crypto` `Pwn`
 
 > More writeups coming soon.
 
@@ -201,7 +197,6 @@ mission:
     - CTF challenges
     - web exploitation
     - digital forensics
-    - OSINT
     - binary exploitation
 
   software:
