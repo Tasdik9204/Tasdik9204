@@ -184,16 +184,6 @@ objective: "Turn curiosity into capability."
 
 
 
-# `> ACTIVITY_GRAPH`
-
-<div align="center">
-
-<img
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Tasdik9204&bg_color=0D1117&color=00E5FF&line=00FF9C&point=FFFFFF&area=true&hide_border=true"
-/>
-
-</div>
 
 ---
 
