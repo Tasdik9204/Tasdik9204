@@ -1,23 +1,16 @@
-<div align="center">
-
 # `M TASDIK MUTTAKI`
 
 ### `CYBERSECURITY • CTF • DIGITAL FORENSICS • GAME DEVELOPMENT • AI`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tasdik_Muttaki-00E5FF?style=for-the-badge\&logo=linkedin\&logoColor=white\&labelColor=020617)](https://www.linkedin.com/in/tasdikmuttaki/)
-[![GitHub](https://img.shields.io/badge/GitHub-Tasdik9204-00FF9C?style=for-the-badge\&logo=github\&logoColor=white\&labelColor=020617)](https://github.com/Tasdik9204)
-
-</div>
-
 ---
 
-```console id="6t6gj7"
+```console
 tasdik@github:~$ whoami
 
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
 │   NAME       M Tasdik Muttaki                                │
-│   ROLE       Cybersecurity Researcher                        │                      
+│   ROLE       Cybersecurity Researcher                        │
 │   FOCUS      Forensics • Pwn • Web • Reverse Engineering     │
 │   STATUS     Building. Breaking. Learning.                   │
 │                                                              │
@@ -26,7 +19,7 @@ tasdik@github:~$ whoami
 
 # `> ABOUT_ME`
 
-```python id="4n3v4r"
+```python
 class Tasdik:
     def __init__(self):
         self.name = "M Tasdik Muttaki"
@@ -70,17 +63,13 @@ I enjoy understanding how systems work, discovering how they fail, and turning t
 
 # `> RAB`
 
-<div align="center">
-
 ## 🏴 Rea11y Annoying Bots
 
 ### `CTF PLAYER • SECURITY RESEARCHER`
 
 `PWN` • `FORENSICS` • `WEB` • `REV` • `CRYPTO`
 
-</div>
-
-```text id="4eimtw"
+```text
 [+] Competitive cybersecurity
 [+] Capture The Flag
 [+] Security research
@@ -110,33 +99,17 @@ Member of **Really Annoying Bots (RAB)** and actively involved in competitive CT
 
 ## `Languages`
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python&theme=dark" />
-
-<br><br>
-
 `C` • `C++` • `Java` • `Python` • `SQL`
-
-</div>
 
 ### `Security & Forensics`
 
-```text id="y3m5s8"
+```text
 Wireshark   •   Ghidra   •   Autopsy   •   Magnet AXIOM
 ```
 
 ### `Platforms & Development`
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,kali,git,github,vscode,docker&theme=dark" />
-
-<br><br>
-
 `Linux` • `Kali Linux` • `Git` • `GitHub` • `VS Code` • `Docker` • `CTFtime`
-
-</div>
 
 ---
 
@@ -144,31 +117,35 @@ Wireshark   •   Ghidra   •   Autopsy   •   Magnet AXIOM
 
 ## 🔥 Interactive Fire Escape Planner
 
-**`Python` `Algorithms` `Problem Solving`**
+**`Python`** **`Algorithms`** **`Problem Solving`**
 
 An interactive Python application focused on planning and visualizing fire-escape routes using data structures and algorithms.
-
-[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-00E5FF?style=for-the-badge\&logo=github\&logoColor=000000)](https://github.com/Tasdik9204/Interactive-Fire-Escape-Planner-Python)
 
 ---
 
 ## 🎮 Split Screen Pixel Buster
 
-**`Java` `OOP` `Game Development`**
+**`Java`** **`OOP`** **`Game Development`**
 
 A split-screen multiplayer arcade game built with Java, featuring object-oriented game logic and local multiplayer mechanics.
 
-[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-00FF9C?style=for-the-badge\&logo=github\&logoColor=000000)](https://github.com/Tasdik9204/Split-Screen-Pixel-buster-Game-java)
+---
+
+## 🌐 DigiLand
+
+**`Web Development`** **`Frontend`** **`Digital Platform`**
+
+A web-based project focused on creating an interactive and user-friendly digital experience.
 
 ---
 
 ## 🛡️ CTF & Security Research
 
-**`Pwn` `Web` `Reverse Engineering` `Forensics` `Cryptography`**
+**`Pwn`** **`Web`** **`Reverse Engineering`** **`Forensics`** **`Cryptography`**
 
 Ongoing security research and CTF work across multiple cybersecurity domains.
 
-```text id="16mfqi"
+```text
 CTF/
 ├── pwn/
 ├── web/
@@ -184,7 +161,7 @@ My focus is not only on solving challenges, but understanding the vulnerability,
 
 # `> CERTIFICATIONS`
 
-```text id="8tg8wa"
+```text
 ╭──────────────────────────────────────────────────────────────╮
 │                                                              │
 │  🛡️  Certified Red Team Operations Management — CRTOM       │
@@ -198,7 +175,7 @@ My focus is not only on solving challenges, but understanding the vulnerability,
 
 # `> CURRENT_MISSION`
 
-```yaml id="m2q6zo"
+```yaml
 identity:
   role: "Cybersecurity Researcher"
   team: "Really Annoying Bots"
@@ -235,53 +212,19 @@ objective: "Turn curiosity into capability."
 
 # `> GITHUB_ANALYTICS`
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tasdik9204&show_icons=true&hide_border=true&bg_color=020617&title_color=00E5FF&icon_color=00FF9C&text_color=C9D1D9&ring_color=00E5FF" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tasdik9204&hide_border=true&background=020617&stroke=00E5FF&ring=00E5FF&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" />
-
-<br>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tasdik9204&layout=compact&hide_border=true&bg_color=020617&title_color=00E5FF&text_color=C9D1D9" />
-
-</div>
-
 ---
 
 # `> ACTIVITY_GRAPH`
-
-<div align="center">
-
-[![Tasdik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tasdik9204\&bg_color=020617\&color=00E5FF\&line=00FF9C\&point=FFFFFF\&area=true\&hide_border=true)](https://github.com/Tasdik9204)
-
-</div>
 
 ---
 
 # `> CONTRIBUTION_SNAKE`
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Tasdik9204/Tasdik9204/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-
-</div>
-
 ---
 
 # `> CONNECT`
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00E5FF?style=for-the-badge\&logo=linkedin\&logoColor=000000)](https://www.linkedin.com/in/tasdikmuttaki/)
-
-[![GitHub](https://img.shields.io/badge/GITHUB-00FF9C?style=for-the-badge\&logo=github\&logoColor=000000)](https://github.com/Tasdik9204)
-
-</div>
-
-<br>
-
-```text id="kfp52u"
+```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
 ║            BUILD IT. BREAK IT. UNDERSTAND IT.                ║
@@ -289,10 +232,6 @@ objective: "Turn curiosity into capability."
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-<div align="center">
-
 ### `Thanks for visiting // connection terminated...`
 
 `tasdik@github:~$ exit`
-
-</div>
