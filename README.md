@@ -17,43 +17,7 @@ tasdik@github:~$ whoami
 └──────────────────────────────────────────────────────────────┘
 ```
 
-# `> ABOUT_ME`
 
-```python
-class Tasdik:
-    def __init__(self):
-        self.name = "M Tasdik Muttaki"
-        self.role = "Cybersecurity Researcher"
-
-        self.security_interests = [
-            "Digital & Malware Forensics",
-            "Binary Exploitation",
-            "Reverse Engineering",
-            "Web Security",
-            "Cryptography",
-        ]
-
-        self.programming = [
-            "Python",
-            "C",
-            "C++",
-            "Java",
-            "SQL",
-        ]
-
-        self.currently_exploring = [
-            "CTF Research",
-            "Exploit Development",
-            "Memory Analysis",
-            "AI / ML Systems",
-        ]
-
-    def philosophy(self):
-        return "Build it. Break it. Understand it."
-
-
-me = Tasdik()
-```
 
 I spend most of my time exploring **cybersecurity, CTF challenges, exploitation, digital forensics, reverse engineering and security research**.
 
@@ -179,17 +143,7 @@ My focus is not only on solving challenges, but understanding the vulnerability,
 
 ---
 
-# `> CERTIFICATIONS`
 
-```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│  🛡️  Certified Red Team Operations Management — CRTOM       │
-│                                                              │
-│  🎓  Certified Cybersecurity Educator Professional — CCEP    │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
 
 ---
 
@@ -302,13 +256,7 @@ objective: "Turn curiosity into capability."
 
 <br>
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║            BUILD IT. BREAK IT. UNDERSTAND IT.                ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+
 
 <div align="center">
 
