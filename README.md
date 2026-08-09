@@ -1,93 +1,141 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0891B2,100:00FF9C&height=220&section=header&text=TASDIK%20MUTTAKI&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SECURITY%20%E2%80%A2%20SOFTWARE%20%E2%80%A2%20ARTIFICIAL%20INTELLIGENCE&descAlignY=55&descSize=16"/>
+# `M TASDIK MUTTAKI`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&random=false&width=700&lines=%3E+Computer+Science+Student;%3E+Cybersecurity+%26+CTF+Enthusiast;%3E+Backend+%26+AI+Developer;%3E+Linux+Enjoyer;%3E+Building+%7C+Breaking+%7C+Learning" alt="Typing SVG" />
+### `CYBERSECURITY • CTF • DIGITAL FORENSICS • REVERSE ENGINEERING`
 
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Tasdik9204\&label=PROFILE+VIEWS\&color=00bfbf\&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/Tasdik9204?label=FOLLOWERS\&style=for-the-badge\&color=00bfbf\&labelColor=020617)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tasdik_Muttaki-00E5FF?style=for-the-badge\&logo=linkedin\&logoColor=white\&labelColor=020617)](https://www.linkedin.com/in/tasdikmuttaki/)
+[![GitHub](https://img.shields.io/badge/GitHub-Tasdik9204-00FF9C?style=for-the-badge\&logo=github\&logoColor=white\&labelColor=020617)](https://github.com/Tasdik9204)
 
 </div>
 
 ---
 
-```console
+```console id="6t6gj7"
 tasdik@github:~$ whoami
 
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
 │   NAME       M Tasdik Muttaki                                │
-│   LOCATION   Dhaka, Bangladesh                               │
 │   ROLE       Cybersecurity Researcher                        │
-│   FOCUS      Cybersecurity • AI • Game Development           │
+│   TEAM       Really Annoying Bots (RAB)                      │
+│   FOCUS      Forensics • Pwn • Web • Reverse Engineering     │
 │   STATUS     Building. Breaking. Learning.                   │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
 
-## `> ABOUT_ME`
+# `> ABOUT_ME`
 
-```python
+```python id="4n3v4r"
 class Tasdik:
     def __init__(self):
         self.name = "M Tasdik Muttaki"
-        self.location = "Dhaka, Bangladesh 🇧🇩"
+        self.role = "Cybersecurity Researcher"
 
-        self.interests = [
-            "Cybersecurity",
-            "Capture The Flag (CTF)",
-            "Artificial Intelligence",
-            "Backend Engineering",
+        self.security_interests = [
+            "Digital & Malware Forensics",
+            "Binary Exploitation",
+            "Reverse Engineering",
+            "Web Security",
+            "Cryptography",
         ]
 
-        self.currently_learning = [
-            "Web Security",
-            "Binary Exploitation",
-            "Digital Forensics",
+        self.programming = [
+            "Python",
+            "C",
+            "C++",
+            "Java",
+            "SQL",
+        ]
+
+        self.currently_exploring = [
+            "CTF Research",
+            "Exploit Development",
+            "Memory Analysis",
             "AI / ML Systems",
         ]
 
-    def daily_routine(self):
-        return "Learn → Build → Break → Debug → Repeat"
+    def philosophy(self):
+        return "Build it. Break it. Understand it."
 
 
 me = Tasdik()
 ```
 
+I spend most of my time exploring **cybersecurity, CTF challenges, exploitation, digital forensics, reverse engineering and security research**.
+
+I enjoy understanding how systems work, discovering how they fail, and turning that knowledge into practical skills through research, competition and personal projects.
+
 ---
 
-## `> TECH_ARSENAL`
+# `> RAB`
 
 <div align="center">
 
-### Languages
+## 🏴 Really Annoying Bots
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts&theme=dark" />
+### `CTF PLAYER • SECURITY RESEARCHER`
 
-### Backend & Data
-
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,docker&theme=dark" />
-
-### Tools & Environment
-
-<img src="https://skillicons.dev/icons?i=linux,kali,git,github,vscode,bash,powershell&theme=dark" />
+`PWN` • `FORENSICS` • `WEB` • `REV` • `CRYPTO`
 
 </div>
 
+```text id="4eimtw"
+[+] Competitive cybersecurity
+[+] Capture The Flag
+[+] Security research
+[+] Systems & memory analysis
+[+] Exploitation
+[+] Reverse engineering
+```
+
+Member of **Really Annoying Bots (RAB)** and actively involved in competitive CTFs and security research.
+
 ---
 
-## `> SECURITY_LAB`
+# `> SECURITY_ARSENAL`
+
+| Domain                     | Skills                                                                 |
+| :------------------------- | :--------------------------------------------------------------------- |
+| 🔍 **Digital Forensics**   | PCAP Analysis • Network Forensics • Malware Analysis • Memory Analysis |
+| 💥 **Binary Exploitation** | Linux Binaries • Memory Corruption • Exploitation                      |
+| 🧩 **Reverse Engineering** | Static Analysis • Dynamic Analysis • Debugging • Ghidra                |
+| 🌐 **Web Security**        | Recon • Web Exploitation • API Security • Security Testing             |
+| 🔐 **Cryptography**        | Classical Crypto • Applied Crypto • CTF Crypto                         |
+| 🌐 **Networking**          | Traffic Analysis • Wireshark • Network Protocols                       |
+
+---
+
+# `> TECH_ARSENAL`
+
+## `Languages`
 
 <div align="center">
 
-|           Domain           | Exploring                                      |
-| :------------------------: | :--------------------------------------------- |
-|      🔍 **Forensics**      | PCAP Analysis • Wireshark • Traffic Analysis   |
-|     🌐 **Web Security**    | Recon • Web Exploitation • API Security        |
-| 🧩 **Reverse Engineering** | Static Analysis • Debugging                    |
-| 💥 **Binary Exploitation** | Linux Binaries • Memory Corruption             |
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python&theme=dark" />
+
+<br><br>
+
+`C` • `C++` • `Java` • `Python` • `SQL`
+
+</div>
+
+### `Security & Forensics`
+
+```text id="y3m5s8"
+Wireshark   •   Ghidra   •   Autopsy   •   Magnet AXIOM
+```
+
+### `Platforms & Development`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,kali,git,github,vscode,docker&theme=dark" />
+
+<br><br>
+
+`Linux` • `Kali Linux` • `Git` • `GitHub` • `VS Code` • `Docker` • `CTFtime`
 
 </div>
 
@@ -95,75 +143,98 @@ me = Tasdik()
 
 # `> FEATURED_PROJECTS`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 🔥 Interactive Fire Escape Planner
 
-### 🔥 Interactive Fire Escape Planner
+**`Python` `Algorithms` `Problem Solving`**
 
-A Python project focused on interactive fire-escape planning and route visualization.
+An interactive Python application focused on planning and visualizing fire-escape routes using data structures and algorithms.
 
-**Built with**
-
-`Python` `Algorithms` `Problem Solving`
-
-<a href="https://github.com/Tasdik9204/Interactive-Fire-Escape-Planner-Python">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=000000">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎮 Split Screen Pixel Buster
-
-A Java game project exploring gameplay logic and split-screen interaction.
-
-**Built with**
-
-`Java` `OOP` `Game Development`
-
-<a href="https://github.com/Tasdik9204/Split-Screen-Pixel-buster-Game-java">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00FF9C?style=for-the-badge&logo=github&logoColor=000000">
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 BanglaText
-
-Bengali speech collection, transcription and quality-assurance platform.
-
-**Stack**
-
-`FastAPI` `PostgreSQL` `Redis` `Docker` `ASR`
-
-> Repository coming soon.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🛡️ CTF & Security Lab
-
-Security experiments, challenge solutions, scripts and research from my cybersecurity journey.
-
-**Areas**
-
-`Web` `Forensics` `Crypto` `Pwn`
-
-> More writeups coming soon.
-
-</td>
-</tr>
-</table>
+[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-00E5FF?style=for-the-badge\&logo=github\&logoColor=000000)](https://github.com/Tasdik9204/Interactive-Fire-Escape-Planner-Python)
 
 ---
 
-## `> GITHUB_ANALYTICS`
+## 🎮 Split Screen Pixel Buster
+
+**`Java` `OOP` `Game Development`**
+
+A split-screen multiplayer arcade game built with Java, featuring object-oriented game logic and local multiplayer mechanics.
+
+[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-00FF9C?style=for-the-badge\&logo=github\&logoColor=000000)](https://github.com/Tasdik9204/Split-Screen-Pixel-buster-Game-java)
+
+---
+
+## 🛡️ CTF & Security Research
+
+**`Pwn` `Web` `Reverse Engineering` `Forensics` `Cryptography`**
+
+Ongoing security research and CTF work across multiple cybersecurity domains.
+
+```text id="16mfqi"
+CTF/
+├── pwn/
+├── web/
+├── reverse-engineering/
+├── forensics/
+├── crypto/
+└── osint/
+```
+
+My focus is not only on solving challenges, but understanding the vulnerability, exploitation path and underlying system behaviour.
+
+---
+
+# `> CERTIFICATIONS`
+
+```text id="8tg8wa"
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│  🛡️  Certified Red Team Operations Management — CRTOM       │
+│                                                              │
+│  🎓  Certified Cybersecurity Educator Professional — CCEP    │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+```
+
+---
+
+# `> CURRENT_MISSION`
+
+```yaml id="m2q6zo"
+identity:
+  role: "Cybersecurity Researcher"
+  team: "Really Annoying Bots"
+
+focus:
+  - digital_forensics
+  - binary_exploitation
+  - reverse_engineering
+  - web_security
+  - cryptography
+
+ctf:
+  active: true
+  philosophy: "Learn by breaking things"
+
+development:
+  - Python
+  - C
+  - C++
+  - Java
+  - Linux
+  - Docker
+
+exploring:
+  - malware_analysis
+  - exploit_development
+  - memory_analysis
+  - AI_ML
+
+objective: "Turn curiosity into capability."
+```
+
+---
+
+# `> GITHUB_ANALYTICS`
 
 <div align="center">
 
@@ -179,84 +250,50 @@ Security experiments, challenge solutions, scripts and research from my cybersec
 
 ---
 
-## `> ACTIVITY_GRAPH`
+# `> ACTIVITY_GRAPH`
 
 <div align="center">
 
-[![Tasdik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tasdik9204\&bg_color=020617\&color=00e5ff\&line=00ff9c\&point=ffffff\&area=true\&hide_border=true)](https://github.com/Tasdik9204)
+[![Tasdik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tasdik9204\&bg_color=020617\&color=00E5FF\&line=00FF9C\&point=FFFFFF\&area=true\&hide_border=true)](https://github.com/Tasdik9204)
 
 </div>
 
 ---
 
-## `> CURRENT_MISSION`
-
-```yaml
-mission:
-  cybersecurity:
-    - CTF challenges
-    - web exploitation
-    - digital forensics
-    - binary exploitation
-
-  software:
-    - backend development
-    - API engineering
-    - Linux
-    - automation
-
-  artificial_intelligence:
-    - speech recognition
-    - machine learning
-    - AI-powered applications
-
-objective: "Turn curiosity into capability."
-```
-
----
-
-## `> CONTRIBUTION_SNAKE`
+# `> CONTRIBUTION_SNAKE`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tasdik9204/Tasdik9204/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Tasdik9204/Tasdik9204/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 
 </div>
 
 ---
 
-## `> CONNECT`
+# `> CONNECT`
 
 <div align="center">
 
-<a href="https://github.com/Tasdik9204">
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=00E5FF">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00E5FF?style=for-the-badge\&logo=linkedin\&logoColor=000000)](https://www.linkedin.com/in/tasdikmuttaki/)
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=00E5FF">
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=00FF9C">
-</a>
+[![GitHub](https://img.shields.io/badge/GITHUB-00FF9C?style=for-the-badge\&logo=github\&logoColor=000000)](https://github.com/Tasdik9204)
 
 </div>
 
 <br>
 
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════╗
-║                                                  ║
-║      "BUILD IT. BREAK IT. UNDERSTAND IT."        ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
+```text id="kfp52u"
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║            BUILD IT. BREAK IT. UNDERSTAND IT.                ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
+
+<div align="center">
 
 ### `Thanks for visiting // connection terminated...`
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,50:0891B2,100:020617&height=120&section=footer"/>
+`tasdik@github:~$ exit`
 
 </div>
