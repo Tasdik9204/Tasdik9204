@@ -99,7 +99,15 @@ Member of **Really Annoying Bots (RAB)** and actively involved in competitive CT
 
 ## `Languages`
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python&theme=dark" />
+
+<br><br>
+
 `C` • `C++` • `Java` • `Python` • `SQL`
+
+</div>
 
 ### `Security & Forensics`
 
@@ -109,7 +117,15 @@ Wireshark   •   Ghidra   •   Autopsy   •   Magnet AXIOM
 
 ### `Platforms & Development`
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,kali,git,github,vscode,docker&theme=dark" />
+
+<br><br>
+
 `Linux` • `Kali Linux` • `Git` • `GitHub` • `VS Code` • `Docker` • `CTFtime`
+
+</div>
 
 ---
 
@@ -121,6 +137,8 @@ Wireshark   •   Ghidra   •   Autopsy   •   Magnet AXIOM
 
 An interactive Python application focused on planning and visualizing fire-escape routes using data structures and algorithms.
 
+[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-00E5FF?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/Tasdik9204/Interactive-Fire-Escape-Planner-Python)
+
 ---
 
 ## 🎮 Split Screen Pixel Buster
@@ -128,6 +146,8 @@ An interactive Python application focused on planning and visualizing fire-escap
 **`Java`** **`OOP`** **`Game Development`**
 
 A split-screen multiplayer arcade game built with Java, featuring object-oriented game logic and local multiplayer mechanics.
+
+[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-00FF9C?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/Tasdik9204/Split-Screen-Pixel-buster-Game-java)
 
 ---
 
@@ -212,17 +232,71 @@ objective: "Turn curiosity into capability."
 
 # `> GITHUB_ANALYTICS`
 
+<div align="center">
+
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=Tasdik9204&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00FF9C&text_color=C9D1D9&ring_color=00E5FF"
+/>
+
+<img
+  width="49%"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Tasdik9204&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B"
+/>
+
+<br><br>
+
+<img
+  width="45%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tasdik9204&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9"
+/>
+
+</div>
+
 ---
 
 # `> ACTIVITY_GRAPH`
+
+<div align="center">
+
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Tasdik9204&bg_color=0D1117&color=00E5FF&line=00FF9C&point=FFFFFF&area=true&hide_border=true"
+/>
+
+</div>
 
 ---
 
 # `> CONTRIBUTION_SNAKE`
 
+<div align="center">
+
+<img
+  width="100%"
+  src="https://raw.githubusercontent.com/Tasdik9204/Tasdik9204/output/github-contribution-grid-snake-dark.svg"
+  alt="Tasdik's Contribution Snake"
+/>
+
+</div>
+
 ---
 
 # `> CONNECT`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/tasdikmuttaki/">
+  <img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=000000" />
+</a>
+
+<a href="https://github.com/Tasdik9204">
+  <img src="https://img.shields.io/badge/GitHub-00FF9C?style=for-the-badge&logo=github&logoColor=000000" />
+</a>
+
+</div>
+
+<br>
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
@@ -232,6 +306,10 @@ objective: "Turn curiosity into capability."
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
+<div align="center">
+
 ### `Thanks for visiting // connection terminated...`
 
 `tasdik@github:~$ exit`
+
+</div>
